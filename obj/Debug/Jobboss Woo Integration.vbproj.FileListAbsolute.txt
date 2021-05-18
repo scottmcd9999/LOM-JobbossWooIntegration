@@ -1,0 +1,136 @@
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Jobboss Woo Integration.exe.config
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Jobboss Woo Integration.exe
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Jobboss Woo Integration.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Jobboss Woo Integration.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.fMain.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.Resources.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.vbproj.GenerateResource.cache
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.exe.licenses
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.vbproj.CopyComplete
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.exe
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\NLog.config
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\NLog.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\NLog.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.ucFiles.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.ucHelp.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.ucLog.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.ucSetup.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss_Woo_Integration.ucSplash.resources
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\BouncyCastle.Crypto.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.DataSet.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MailKit.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MimeKit.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\BouncyCastle.Crypto.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ExcelDataReader.DataSet.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MailKit.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MailKit.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MimeKit.pdb
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\MimeKit.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.vbprojAssemblyReference.cache
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\obj\Debug\Jobboss Woo Integration.vbproj.CoreCompileInputs.cache
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\FluentFTP.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\FluentFTP.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Data.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Dialogs.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Utils.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraBars.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraDialogs.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Office.v20.2.Core.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Data.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Utils.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraBars.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraDialogs.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\DevExpress.Office.v20.2.Core.xml
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Dialogs.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Dialogs.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Dialogs.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Dialogs.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+F:\Development\Exact\E2E Mfg\Woo Commerce Integration\Jobboss Woo Integration\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll

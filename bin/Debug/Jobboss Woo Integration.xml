@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Jobboss Woo Integration
+</name>
+</assembly>
+<members>
+<member name="T:Jobboss_Woo_Integration.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources._exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.button_help">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.button_info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.cloud_download_ok_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.document_text_fingerprint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.folder_network_green_arrow_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.folder_network_refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.folder_network_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_button_arrow_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_button_arrow_left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_button_arrow_right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_button_arrow_right_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_button_arrow_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_filter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.money_find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_button_arrow_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_button_arrow_left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_button_arrow_right">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_button_arrow_up">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_ok_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.order_refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.script">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.send_receive_mail_front_refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.send_receive_mail_front_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.settings_options">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.settings_options_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Jobboss_Woo_Integration.My.Resources.Resources.settings_options1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
